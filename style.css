@@ -50,6 +50,18 @@ h1{
     margin-top: 50px;
     margin-left: 110px;
 }
+.search_icon{
+    margin-left: 130px;
+    margin-top: 65px;
+    width: 20px;
+    position: absolute;
+}
+.filter_icon{
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 900px;
+    width: 20px;
+}
 .bussinessman_picture{
     width: 280px;
     height: 230px;
