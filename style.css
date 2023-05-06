@@ -8,6 +8,7 @@ body{
 }
 .container{
     margin: 0 auto;
+    max-width: 1350px;
 }
 .nav_icons{
     display: flex;
@@ -48,13 +49,27 @@ h1{
     font-size: 20px;
     padding-left: 50px;
     margin-top: 50px;
-    margin-left: 110px;
+    margin-left: 55px;
+}
+.search_input_hover{
+    width: 850px;
+    height: 500px;
+    margin-left: 60px;
+    top: 180px;
+    background-color:white;
+    position: absolute;
+    border-radius: 20px;
+}
+.search_input:hover .search_input_hover{
+    opacity: 1;
 }
 .search_icon{
-    margin-left: 130px;
+    margin-left: 80px;
     margin-top: 65px;
     width: 20px;
     position: absolute;
+    top: 50px;
+    opacity: 0;
 }
 .filter_icon{
     position: absolute;
@@ -116,4 +131,39 @@ button{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+.filter_button{
+    width:auto;
+    height: 30px;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+    margin-left: 10px;
+}
+.marked1_button{
+    width: auto;
+    border-radius: 10px;
+    height: 30px;
+}
+.marked_button{
+    width: auto;
+    border-radius: 10px;
+    height: 30px;
+    margin-right: 30px;
+}
+.mark_button{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.first_line_button{
+    margin-right: 50px;
+}
+.second_line_button{
+    margin-left: 30px;
+}
+.filter_title{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    padding-left: 30px;
 }
