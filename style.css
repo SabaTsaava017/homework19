@@ -61,7 +61,7 @@ h1{
     border-radius: 20px;
 }
 .search_input:hover .search_input_hover{
-    opacity: 1;
+    opacity:1;
 }
 .search_icon{
     margin-left: 80px;
@@ -166,4 +166,53 @@ button{
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     padding-left: 30px;
+}
+.filter_h4{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.range_input{
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.rating_stars{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.marked_city{
+    padding-top: 20px;
+    margin-left: 30px;
+}
+.clear_all{
+    font-size: 19px;
+    vertical-align: middle;
+}
+.filter1{
+    vertical-align: middle;
+}
+.clear_all_and_filter{
+    margin-left: 670px;
+}
+.second_input{
+    margin-left: 940px;
+    position: absolute;
+    margin-top: 51px;
+    height: 49px;
+    width: 300px;
+    font-size: 20px;
+    color: black;
+}
+.arrows2{
+    position: absolute;
+    margin-left: 1020px;
+    margin-top: 70px;
+}
+.search2{
+    position: absolute;
+    margin-left: 1255px;
+    margin-top: 60px;
+    width:25px;
 }
