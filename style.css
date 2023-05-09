@@ -255,3 +255,106 @@ button{
     padding-left: 40px;
     color: #929292;
 }
+.bacground_img{
+    width: 1400px;
+    margin-top: 50px;
+    position: absolute;
+}
+.user_picture{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 20px;
+}
+.user_info{
+    width: 1400px;
+    height:300px;
+    background-color:#EFEFEF;
+    margin-top: 290px;
+}
+.user_name{
+    padding-left: 300px;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+.profesion{
+    margin-left: 300px;
+    display: flex;
+    font-size:20px ;
+    color: #505050;
+    font-family: 'Inter', sans-serif;
+    padding-top: 10px;
+}
+.users_city{
+    display: flex;
+    padding-left: 300px;
+    padding-top: 20px;
+    color: #505050;
+    font-size: 20px;
+}
+.reiting{
+    display: flex;
+    padding-left:110px;
+    color: #505050;
+}
+.user_star{
+    margin-left: 65px;
+    margin-top: 10px;
+}
+.skills{
+    width: 90px;
+    height: auto;
+    color: black;
+    background-color:#D9D9D9;
+    border-color: #D9D9D9;
+    flex-wrap: wrap;
+}
+.user_skils{
+    margin-left: 240px;
+}
+.about_me{
+    font-size: 30px;
+    padding-left: 10px;
+}
+.user_about{
+    width: 1400px;
+    height: auto;
+    background-color:#EFEFEF ;
+    margin-top: 40px;
+}
+.paragrap_style_about{
+    width: 1200px;
+    font-size: 20px;
+    color:#505050 ;
+    padding-left: 10px;
+    border-radius: 10px 10px ;
+}
+.hat_icon{
+    margin-top: 140px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.hat_table{
+    width: 900px;
+    background-color:#EFEFEF;
+    border-radius: 10px;
+    margin-left: 50px;
+    vertical-align: middle;
+    display: inline-block;
+}
+td{
+    padding-left: 80px;
+}
+.div_table{
+    display: inline-block;
+}
+.hat_and_info{
+    display:inline-block;
+}
+.bag_table{
+    width: 900px;
+    background-color:#EFEFEF;
+    border-radius: 10px;
+    margin-left: 50px;
+    vertical-align: middle;
+    display: inline-block;
+}
