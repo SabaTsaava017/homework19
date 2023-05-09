@@ -59,9 +59,10 @@ h1{
     background-color:white;
     position: absolute;
     border-radius: 20px;
+    opacity: 0;
 }
 .search_input:hover .search_input_hover{
-    opacity:0;
+    opacity:1;
 }
 .search_icon{
     margin-left: 80px;
@@ -69,7 +70,6 @@ h1{
     width: 20px;
     position: absolute;
     top: 68px;
-    opacity: 1;
 }
 .filter_icon{
     position: absolute;
