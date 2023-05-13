@@ -26,6 +26,9 @@ h1{
     margin-left: 40px;
     font-family: 'Inter', sans-serif;
 }
+ul li{
+    list-style: none;
+}
 .post_icon{
     width: 30px;
     margin-left: 1300px;
@@ -88,6 +91,7 @@ h1{
     margin-left: 20px;
     display: flex;
     font-family: 'Inter', sans-serif;
+    text-decoration: none;
 }
 .info1{
     display: flex;
@@ -118,6 +122,11 @@ button{
     color:white ;
     vertical-align: middle;
     border-color: #087DBF;
+}
+.link_user_page{
+    width: 300px;
+    height: 300px;
+    position: absolute;
 }
 .bussinessman_info{
     width: 304px;
@@ -225,11 +234,16 @@ button{
 }
 .Talent{
     display: block;
-    padding-left: 40px;
+    padding-left: 30px;
 }
 .hire_professional{
-    padding-left: 40px;
+    display: block;
+    padding-right:10px;
+    padding-top: 20px;
     color: #929292;
+}
+.document_icon{
+    vertical-align: middle;
 }
 .Project{
     display: block;
@@ -241,6 +255,7 @@ button{
 }
 .second_info{
     background-color:#087DBF;
+    border-radius: 10px;
 }
 .info3{
     background-color: white;
@@ -444,12 +459,9 @@ td{
     width: 1300px;
     background-color:#EFEFEF;
     margin-top: 10px;
-    
+    border: 1px solid black;   
 }
-th{
+.table_head_company{
     background-color: #087DBF;
     color: azure;
-}
-table, th, td {
-    border: 1px solid black;
-}
+} 
