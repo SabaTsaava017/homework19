@@ -21,10 +21,11 @@ body{
     vertical-align: middle;
     margin-left: 30px;
 }
-h1{
+.WorkWise{
     vertical-align: middle;
-    margin-left: 40px;
+    margin-left: 30px;
     font-family: 'Inter', sans-serif;
+    font-size: 35px;
 }
 ul li{
     list-style: none;
@@ -465,3 +466,100 @@ td{
     background-color: #087DBF;
     color: azure;
 }  
+.login_button{
+    background-color: #F4F4F4;
+    border-color:#F4F4F4 ;
+    color: black;
+    width: 110px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.JOIN_button{
+    background-color: #087DBF;
+    border-color: #087DBF;
+    color: black;
+    width: 110px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.about_us{
+    color: black;
+    text-decoration: none;
+    font-size: 26px;
+    padding-left: 800px;
+    vertical-align: middle;
+    font-family: 'Poppins', sans-serif;
+}
+.Contact{
+    color: black;
+    text-decoration: none;
+    font-size: 26px;
+    padding-left: 20px;
+    vertical-align: middle;
+    font-family: 'Poppins', sans-serif;
+}
+.EN{
+    color: black;
+    text-decoration: none;
+    font-size: 26px;
+    vertical-align: middle;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+}
+.main_page_div{
+    display: flex;
+}
+h1{
+    color: #087DBF;
+    font-size: 60px;
+    width: 670px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 100px;
+}
+.freelancer{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+}
+.opportunitythat{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 20px;
+    width: 200px;
+}
+.Get_Started{
+    padding-top: 20px;
+    display: block;
+    color: #087DBF;
+    font-size: 20px;
+}
+.Get_Started_and_link_alt{
+    display: flex;
+}
+.link_alt{
+    width: 20px;
+    padding-top: 20px;
+    padding-left: 5px;
+}
+.hire{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.desirable{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 20px;
+    width: 200px;
+}
+.freelancer_div{
+    display: inline-block;
+}
+.hire_div{
+    display: inline-block;
+    padding-left: 200px;
+}
+.frame_div{
+    display: block;
+    padding-left: 720px;
+}
+.head_and_info{
+    display: inline-block;
+}
