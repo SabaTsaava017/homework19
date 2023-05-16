@@ -583,3 +583,23 @@ h1{
 .Conditions_Policy_div{
     vertical-align: center;
 }
+@media(max-width:1024px){
+    .all_divs{
+        width: 900px;
+    }
+    .search_input{
+        width: 500px;
+    }
+    .aaaaaaaaaaaaaaaaaa{
+        width: 300px;
+    }
+    .bacground_img{
+        width: 500px;
+    }
+}
+@media(max-width:768px){
+    .all_divs{
+        width: 300px;
+    }
+
+}
