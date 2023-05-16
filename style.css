@@ -563,3 +563,23 @@ h1{
 .head_and_info{
     display: inline-block;
 }
+.index_html_footer{
+    background-color:black;
+}
+.cricle_and_span{
+    vertical-align:center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.Conditions_Policy{
+    padding-left: 500px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+}
+.socialaicons_div{
+    padding-left: 1200px;
+    vertical-align: center;
+}
+.Conditions_Policy_div{
+    vertical-align: center;
+}
